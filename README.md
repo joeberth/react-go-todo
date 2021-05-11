@@ -17,5 +17,10 @@ Database: Atlas MongoDB
 5. start client `npm start`
 
 Backend is running at http://localhost:8080 (Hardcoded on screen)
+
 Open application at http://localhost:3000
 
+
+ScreenShot:
+
+![reacttodo](https://user-images.githubusercontent.com/33490097/117886548-c0cd3300-b285-11eb-97af-31e7b45f25bf.png)
